@@ -1,0 +1,3 @@
+MVCM_actions[lathama]="whoami"
+MVCM_actions[lathama]="w"
+MVCM_actions[root]="ls -lha /root/"
